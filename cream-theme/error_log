@@ -1,0 +1,5 @@
+[05-Jul-2016 20:56:56 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/markbrenson/public_html/wp-content/themes/cream-theme/404.php on line 3
+[05-Jul-2016 22:08:56 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/markbrenson/public_html/wp-content/themes/cream-theme/404.php on line 3
+[07-Jul-2016 16:53:30 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/markbrenson/public_html/wp-content/themes/cream-theme/functions.php on line 48
+[07-Jul-2016 19:44:36 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/markbrenson/public_html/wp-content/themes/cream-theme/functions.php on line 48
+[08-Jul-2016 02:41:50 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/markbrenson/public_html/wp-content/themes/cream-theme/functions.php on line 48
