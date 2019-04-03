@@ -115,4 +115,11 @@
 	.margin-bottom-30-mobile {
 		margin-bottom: 30px;
 	}
+	#filters li {
+		display: block;
+	}
+	.wp-image-435 {
+		width: 100%;
+		height: auto;
+	}
 }
