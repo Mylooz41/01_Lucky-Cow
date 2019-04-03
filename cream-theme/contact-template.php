@@ -95,6 +95,16 @@ get_template_part('banners/default-banner');
                                         <label for="location"><?php _e('Location of Event', 'framework'); ?></label>
                                         <input type="text" name="location" id="location" class="required" title="<?php _e('* Please provide a location', 'framework'); ?>" />
                                     </p>
+
+                                    <p class="group">
+                                        <label for="date"><?php _e('Date of Event', 'framework'); ?></label>
+                                        <input type="datetime-local" id="date" name="date" class="required" value="2019-01-01" min="2019-01-01"  title="<?php _e('* Please provide a date', 'framework'); ?>" />
+                                    </p>
+
+                                    <p class="group">
+                                        <label for="hours"><?php _e('How many hours will you need us?', 'framework'); ?></label>
+                                        <input type="number" name="hours" id="hours" min="1" max="48" class="required" title="<?php _e('* Please provide how many hours you will need us', 'framework'); ?>" />
+                                    </p>
                                     
                                 </div>
 

@@ -20,7 +20,6 @@ if (!function_exists('send_message')) {
             if (!wp_verify_nonce($nonce, 'send_message_nonce'))
                 die (__('Busted!', 'framework'));
 
-
             global $theme_options;
 
             /* Sanitize and Validate Target email address that will be configured from theme options */
@@ -37,6 +36,8 @@ if (!function_exists('send_message')) {
             $type_event = stripslashes($_POST['typeofevent']);
             $number_guests = stripslashes($_POST['numberofguests']);
             $location = stripslashes($_POST['location']);
+            $date = stripslashes($_POST['date']);
+            $hours = stripslashes($_POST['hours']);
             $message = stripslashes( $_POST['message'] );
 
             $from_email = is_email($from_email);
@@ -61,6 +62,13 @@ if (!function_exists('send_message')) {
             }
             if (!empty($location)) {
                 $email_body .= __("Location : ", 'framework') . $location . " <br/>";
+            }
+
+            if (!empty($date)) {
+                $email_body .= __("Date : ", 'framework') . $date . " <br/>";
+            }
+            if (!empty($hours)) {
+                $email_body .= __("Hours : ", 'framework') . $hours . " <br/>";
             }
 
             $email_body .= __("Their additional message is as follows.", 'framework') . " <br/>";
