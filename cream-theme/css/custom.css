@@ -103,3 +103,16 @@
 	font-style: italic;
 	margin: 0;	
 }
+
+@media only screen and (max-width: 480px) {
+	.logo img {
+		width: 200px;
+	}
+	.testimonial-box {
+		min-height: auto;
+		margin-bottom: 30px;
+	}
+	.margin-bottom-30-mobile {
+		margin-bottom: 30px;
+	}
+}
