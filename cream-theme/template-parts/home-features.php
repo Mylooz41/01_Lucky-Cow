@@ -16,12 +16,12 @@ global $theme_options;
                 <div class="row">
                     <div class="col-md-6 col-sm-12 col-xs-12">
                         <h2 class="section-title">Who we are</h2>
-                        <p>Based in London, and covering the South East of England, Lucky cow is a small family run business who always focus on great customer service and the best quality products.</p>
+                        <p>Based in London, and covering the South East of England, Lucky Cow is a small family run business who always focus on great customer service and the best quality products.</p>
                     </div>
                     <div class="col-md-6 col-sm-12 col-xs-12">
                         <h2 class="section-title">What we do</h2>
-                        <p>We offer a substantial range of superb quality ice cream made from organic milk and cones at extremely competitive prices (see our price promise for further details**)</p>
-                        <p>Because of our size we have a great attention to detail. You can be assured of a truly personalised and bespoke service that will compliment your event beautifully.</p>
+                        <p>We offer a substantial range of superb quality ice cream made from organic milk and cones at really competitive prices.</p>
+                        <p>Because we are a small family-run business we have a great attention to detail. You can be assured of a truly personalised and bespoke service that will compliment your event beautifully.</p>
                         <p>We also offer dairy free, gluten free and diabetic options, as well as gluten free cones, organic topping sauces and chocolate so everyone can enjoy Lucky Cow!</p>
                     </div>
                 </div>
@@ -37,39 +37,38 @@ global $theme_options;
                     <div class="col-md-4 col-sm-12 col-xs-12">
                         <div class="testimonial-box">
                             <div class="testimonial-content">
-                                <p class="quote"><q>Lucky Cow served ice cream at our charity event and were absolutely fantastic! 
-            Amazing ice cream, wonderful service and just generally really awesome! Thank you! :)</q></p>
-                                <p class="author">Kasia, October 2016</p>
+                                <p class="quote"><q>Lucky Cow were amazing. Mark was brilliant and we couldn't fault them at all.
+Perfect service and the ice cream was unreal!!</q></p>
+                                <p class="author">Joshua C, September 2019</p>
                             </div>
                         </div>
                     </div>
                     <div class="col-md-4 col-sm-12 col-xs-12">
                         <div class="testimonial-box">
                             <div class="testimonial-content">
-                                <p class="quote"><q>I was recently at an event that Lucky Cow attended and the ice cream 
-    was delicious, and served with a smile, would highly recommend!</q></p>
-                                <p class="author">Rachel, October 2016</p>
+                                <p class="quote"><q>Mark from Lucky Cow was fantastic from start to finish. Great communication and good value for money compared to other similar suppliers. He fitted in perfectly at our drinks reception for our sunny wedding at Wotton House on 18th August. He was a genuine lovely guy and I’m glad that we got to enjoy a chat and an ice-cream with you Mark during our busy big day.</q></p>
+                                <p class="author">Emma F, August 2019</p>
                             </div>
                         </div>
                     </div>
                     <div class="col-md-4 col-sm-12 col-xs-12">
                         <div class="testimonial-box">
                             <div class="testimonial-content">
-                                <p class="quote"><q>Lucky Cow attended our work Summer party and as part of the committee that booked it I can't thank them enough for their excellent service and delicious desserts- the best we've had to date! They were also extremely competitive and cheaper than other suppliers who were offering frankly inferior products. We have already booked them again for next year!</q></p>
-                                <p class="author">Sarah, February 2017</p>
+                                <p class="quote"><q>Mark was nothing but professional from start to finish. The service was slick - in setting up and the delivery to our guests. The ice cream was of high quality and there was a great selection available. We would highly recommend Lucky Cow for any event. Thank You Mark!</q></p>
+                                <p class="author">Lisa H, July 2019</p>
                             </div>
                         </div>
                     </div>
                 </div>
             </div> 
 
-            <div class="section-disclaimers">
+            <!-- <div class="section-disclaimers">
                 <div class="row">
                     <div class="col-md-12">
                         <p>** We guarantee to beat any like for like quote from another supplier for our services, subject to terms and conditions</p>
                     </div>
                 </div>
-            </div>
+            </div> -->
 
         </div>
 
